@@ -1,6 +1,6 @@
-# XLR
+# LG-XLR
 
-Paper title: XLR: A Universal Framework for Learning rate Adaptation via Exponential Range Exploration
+Paper title: LG-XLR: Loss-Guided Exponential Learning Rate Adaptation
 
 Authors: Rakib Ul Haque and Panagiotis (Panos P.) Markopoulos
 
@@ -12,6 +12,6 @@ Code by: rakibul.haque@utsa.edu
 
 Date: 01/09/2025
 
-Cite as: R. Ul Haque and P. Markopoulos, "XLR: A Universal Framework for Learning rate Adaptation via Exponential Range Exploration", 2025.
+Cite as: R. Ul Haque and P. Markopoulos, "LG-XLR: Loss-Guided Exponential Learning Rate Adaptation", 2025.
 
 Datasets and weights repository: https://utsacloud-my.sharepoint.com/:f:/g/personal/rakibul_haque_utsa_edu/EiS5MQxqVS1Or0_VAypt81UBm8bFi_qk3qrswJyTTRBAzw?e=icgq3J
